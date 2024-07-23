@@ -2,27 +2,30 @@
 
 ## What is Data Science?
 
-**Data Science** is a _multidisciplinary field_ that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from structured and unstructured data.
+**Data Science** is a _multidisciplinary field_ that combin statistics , computer scince and domain nowledge.
 
-![DS Image](dataimage.png){:width="400" height="400"}
+<img src="dataimage.png" alt="DS Image" width="400" height="400">
 
 ### Data Types
 
-- **Structured Data**: Data that adheres to a predefined model or format.
-- **Unstructured Data**: Data that does not follow a specific format.
-- **Semi-structured Data**: Data that does not fit into a traditional database but contains tags or markers to separate data elements.
+- **Structured Data**
+- **Unstructured Data**
+- **Semi-structured Data**
 
 #### Data Types Table
 
-| Data Type           | Description                                              |
-|---------------------|----------------------------------------------------------|
-| Structured Data     | Data that is organized into rows and columns.           |
-| Unstructured Data   | Data without a pre-defined data model or format.        |
-| Semi-structured Data| Data that does not fit neatly into a table but has some organizational properties. |
+| Structured                                                | semi-structured                                                     | Unstructured                  |
+|-----------------------------------------------------------|---------------------------------------------------------------------|-------------------------------|
+| It is data that has been organized into a strict schema.  | It is data that does not conform to a schema but has some structure.| It is data that has no schema.|
+|-----------------------------------------------------------|---------------------------------------------------------------------|-------------------------------|
+| e.g: Tables                                               |e.g: xml                                                             |                               
 
-Read more: [Wikipedia on Data Science](https://en.wikipedia.org/wiki/Data_science).
+
 
 ```python
-# Python code example
-print("DS Bootcamp")
+print("DS Bootcamp")```
+
+
+Read more: [Read more](https://en.wikipedia.org/wiki/Data_science).
+
 
