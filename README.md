@@ -21,8 +21,9 @@
 | e.g: Tables                                               |e.g: xml                                                             |                               |
 
 
-```python
-print("DS Bootcamp")
+``python
+print("DS Bootcamp")``
+
 
 
 Read more: [Read more](https://en.wikipedia.org/wiki/Data_science).
